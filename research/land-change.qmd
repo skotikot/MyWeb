@@ -1,0 +1,39 @@
+---
+title: "Land-use & land-cover change"
+subtitle: "How policy legacies and competing land uses reshape landscape structure"
+---
+
+::: {.topic-banner}
+<img src="../images/research/land-change.svg" alt="Land-use & land-cover change">
+
+::: {}
+[Theme 1 · Mapping spatiotemporal patterns]{.theme-tag .tag-1}
+
+Landscapes carry the imprint of past decisions. I use satellite imagery and classified historical aerial photographs to reconstruct how land use and land cover have changed, and to connect those changes to their social, political, and climatic drivers.
+:::
+:::
+
+My early regional work across Eastern and Southern Africa found patchy, spatially varying losses and gains in forest and cropland that largely offset one another in net terms, and that showed little relationship to national-level rainfall and temperature trends, pointing instead to socioeconomic and policy drivers.
+
+More recently, in the agropastoral landscape of Narok, Kenya, I traced how historical land policies continue to shape contemporary land-use patterns.
+
+## Key insights
+
+- Land-cover change reflects an interplay between historical land policies and competition among land uses for resources.
+- The landscape has become increasingly homogeneous, a shift with potential consequences for social-ecological resilience.
+- Land use closely tracks the uneven climate patterns that govern land productivity.
+
+## Methods & tools
+
+Landsat and MODIS imagery · historical aerial photographs · image classification and change detection · landscape metrics (FRAGSTATS) · R
+
+## Related publications
+
+- **Kotikot, S.M.**, Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2025). Historical land policies influence contemporary landscape patterns in agropastoral landscapes. *Landscape Ecology*, 40, 163. [DOI](https://doi.org/10.1007/s10980-025-02178-x){.badge-doi}
+- Al-Hamdan, M.Z., Oduor, P., Flores, A.I., **Kotikot, S.M.**, et al. (2017). Evaluating land cover changes in Eastern and Southern Africa from 2000 to 2010 using validated Landsat and MODIS data. *International Journal of Applied Earth Observation and Geoinformation*, 62, 8–26. [DOI](https://doi.org/10.1016/j.jag.2017.04.007){.badge-doi}
+
+## Code
+
+- [Landscape-Pattern-Analysis](https://github.com/skotikot/Landscape-Pattern-Analysis): Reproducible R pipeline, data preparation and visualization scripts
+
+[← Back to Research](../research.qmd){.back-link}

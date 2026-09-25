@@ -1,0 +1,139 @@
+/*-- scss:defaults --*/
+// Colour blend: teal · green · amber · coral · magenta · violet · indigo
+$teal:    #0f766e;
+$green:   #16a34a;
+$amber:   #f59e0b;
+$coral:   #f97316;
+$magenta: #db2777;
+$violet:  #7c3aed;
+$indigo:  #312e81;
+$sky:     #0ea5e9;
+
+$primary: $violet;
+$link-color: $violet;
+$body-color: #1f2937;
+$body-bg: #fffdf8;
+$font-family-sans-serif: "Nunito Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+$headings-font-family: "Poppins", system-ui, sans-serif;
+$headings-color: $indigo;
+$footer-bg: $indigo;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Poppins:wght@500;600;700&display=swap');
+
+// gradient strip under the navbar
+.navbar { border-bottom: 4px solid transparent;
+  border-image: linear-gradient(90deg, $teal, $green, $amber, $coral, $magenta, $violet) 1; }
+.navbar-brand .navbar-title { font-family: "Poppins", sans-serif; font-weight: 600; }
+
+.nav-footer { background: $indigo; color: #e0e7ff; border-top: none; }
+.nav-footer a { color: #fde68a; }
+
+h2 { font-weight: 700; margin-top: 2.2rem; }
+h2.anchored::after, .section-title::after {
+  content: ""; display: block; width: 72px; height: 5px; border-radius: 3px; margin-top: .45rem;
+  background: linear-gradient(90deg, $teal, $amber, $magenta);
+}
+
+/* ---------- HOME: hero ---------- */
+.hero {
+  position: relative; min-height: 340px; margin-top: -2rem; margin-bottom: 2.5rem;
+  background-color: #7c3aed; background-position: center; background-size: cover; background-repeat: no-repeat;
+  display: flex; align-items: center; justify-content: flex-start;
+  padding: 3rem 8vw; color: #fff;
+}
+.hero .hero-name { font-family: "Poppins", sans-serif; line-height: 1.15; color: #fff; font-size: clamp(2rem, 4.6vw, 3.4rem); font-weight: 700; margin: 0 0 .4rem;
+  text-shadow: 0 2px 12px rgba(0,0,0,.35); }
+.hero .tagline { font-size: clamp(1.05rem, 2vw, 1.35rem); font-weight: 600; margin-bottom: .3rem;
+  text-shadow: 0 1px 8px rgba(0,0,0,.35); }
+.hero .affil { opacity: .95; text-shadow: 0 1px 8px rgba(0,0,0,.35); }
+.hero .btn-hero { display: inline-block; margin: 1rem .6rem 0 0; padding: .55rem 1.2rem; border-radius: 999px;
+  background: rgba(255,255,255,.95); color: $indigo; font-weight: 700; text-decoration: none; }
+.hero .btn-hero.alt { background: $amber; color: #1f2937; }
+.hero .btn-hero:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,.25); }
+
+/* about block */
+.about { display: grid; grid-template-columns: 240px 1fr; gap: 2.2rem; align-items: start; }
+.about img.profile {
+  width: 240px; height: 240px; object-fit: cover; border-radius: 50%;
+  border: 7px solid transparent;
+  background: linear-gradient(#fff,#fff) padding-box,
+              conic-gradient($teal, $green, $amber, $coral, $magenta, $violet, $teal) border-box;
+  box-shadow: 0 10px 30px rgba(49,46,129,.18);
+}
+@media (max-width: 720px) { .about { grid-template-columns: 1fr; justify-items: center; } }
+
+/* interest cards */
+.interest-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));}
+.interest-grid.three { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); } .interest-grid { gap: 1rem; margin-top: 1rem; }
+.interest-card { border-radius: 16px; padding: 1.1rem 1.2rem; color: #fff; box-shadow: 0 6px 18px rgba(0,0,0,.08); }
+.interest-card h4 { color: #fff; margin: 0 0 .35rem; font-size: 1.08rem; }
+.interest-card p { margin: 0; font-size: .95rem; opacity: .96; }
+.interest-card:nth-child(6n+1) { background: linear-gradient(135deg, $teal, $green); }
+.interest-card:nth-child(6n+2) { background: linear-gradient(135deg, $sky, $indigo); }
+.interest-card:nth-child(6n+3) { background: linear-gradient(135deg, $amber, $coral); }
+.interest-card:nth-child(6n+4) { background: linear-gradient(135deg, $magenta, $violet); }
+.interest-card:nth-child(6n+5) { background: linear-gradient(135deg, $green, $amber); }
+.interest-card:nth-child(6n+6) { background: linear-gradient(135deg, $violet, $sky); }
+
+.pill { display: inline-block; padding: .3rem .8rem; margin: .2rem .25rem; border-radius: 999px;
+  font-size: .9rem; font-weight: 600; background: #f3e8ff; color: $violet; }
+.pill:nth-child(3n+2) { background: #ccfbf1; color: $teal; }
+.pill:nth-child(3n+3) { background: #ffedd5; color: #c2410c; }
+
+/* ---------- RESEARCH ---------- */
+.theme-block { border-radius: 22px; padding: 1.6rem 1.8rem 1rem; margin: 2rem 0; }
+.theme-block h2 { margin-top: 0; }
+.theme-1 { background: linear-gradient(135deg, #ecfeff, #dcfce7); }
+.theme-2 { background: linear-gradient(135deg, #fff7ed, #fef3c7); }
+.theme-3 { background: linear-gradient(135deg, #fdf2f8, #ede9fe); }
+.theme-1 h2 { color: $teal; } .theme-2 h2 { color: #c2410c; } .theme-3 h2 { color: $violet; }
+
+.topic-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.4rem; margin: 1.2rem 0 .5rem; }
+.topic { text-align: center; }
+.topic a { text-decoration: none; color: inherit; }
+.topic img { width: 180px; height: 180px; border-radius: 50%; object-fit: cover;
+  border: 6px solid #fff; box-shadow: 0 8px 22px rgba(0,0,0,.14); transition: transform .25s, box-shadow .25s; }
+.topic a:hover img { transform: scale(1.06) rotate(-2deg); box-shadow: 0 14px 30px rgba(124,58,237,.28); }
+.topic .topic-name { display: block; margin-top: .7rem; font-family: "Poppins", sans-serif; font-weight: 600; font-size: 1.02rem; color: $indigo; }
+.topic .topic-sub { display: block; font-size: .88rem; color: #4b5563; }
+.topic figure, .topic p { margin: 0; }
+
+/* topic detail pages */
+.topic-banner { display: flex; gap: 1.5rem; align-items: center; margin-bottom: 1.2rem; }
+.topic-banner img { width: 150px; height: 150px; border-radius: 50%; flex-shrink: 0;
+  border: 5px solid #fff; box-shadow: 0 8px 22px rgba(0,0,0,.14); }
+.theme-tag { display: inline-block; font-size: .8rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase;
+  padding: .25rem .7rem; border-radius: 999px; color: #fff; }
+.tag-1 { background: linear-gradient(90deg, $teal, $green); }
+.tag-2 { background: linear-gradient(90deg, $amber, $coral); }
+.tag-3 { background: linear-gradient(90deg, $magenta, $violet); }
+.back-link { display: inline-block; margin-top: 2rem; font-weight: 700; }
+@media (max-width: 600px) { .topic-banner { flex-direction: column; text-align: center; } }
+
+/* ---------- SOFTWARE ---------- */
+.sw-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.2rem; margin-top: 1rem; }
+.sw-card { background: #fff; border-radius: 18px; padding: 1.3rem 1.4rem; box-shadow: 0 6px 20px rgba(0,0,0,.07);
+  border-top: 6px solid $teal; }
+.sw-card:nth-child(4n+2) { border-top-color: $amber; }
+.sw-card:nth-child(4n+3) { border-top-color: $magenta; }
+.sw-card:nth-child(4n+4) { border-top-color: $violet; }
+.sw-card h3 { margin-top: 0; font-size: 1.2rem; }
+.sw-card .meta { font-size: .85rem; color: #6b7280; }
+.placeholder { border: 2px dashed #c4b5fd; background: #faf5ff; }
+
+/* ---------- PUBLICATIONS ---------- */
+.pub-year { font-family: "Poppins", sans-serif; font-weight: 700; font-size: 1.3rem; margin: 1.8rem 0 .5rem;
+  background: linear-gradient(90deg, $teal, $violet, $magenta); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.pub { background: #fff; border-left: 6px solid $teal; border-radius: 10px; padding: .8rem 1.1rem; margin-bottom: .75rem;
+  box-shadow: 0 3px 12px rgba(0,0,0,.05); }
+.pub:nth-of-type(5n+2) { border-left-color: $amber; }
+.pub:nth-of-type(5n+3) { border-left-color: $magenta; }
+.pub:nth-of-type(5n+4) { border-left-color: $violet; }
+.pub:nth-of-type(5n+5) { border-left-color: $sky; }
+.pub p { margin: 0; }
+.pub .journal { font-style: italic; }
+.badge-doi { display: inline-block; margin-left: .3rem; padding: .05rem .55rem; border-radius: 999px; font-size: .78rem;
+  font-weight: 700; background: #ede9fe; color: $violet; text-decoration: none; }
+.badge-status { display: inline-block; padding: .05rem .55rem; border-radius: 999px; font-size: .78rem; font-weight: 700;
+  background: #ffedd5; color: #c2410c; }

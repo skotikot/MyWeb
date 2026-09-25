@@ -1,0 +1,26 @@
+---
+title: "Protected areas & human wellbeing"
+subtitle: "Linking coastal conservation to community outcomes"
+---
+
+::: {.topic-banner}
+<img src="../images/research/protected-areas.svg" alt="Protected areas & human wellbeing">
+
+::: {}
+[Theme 3 · Transdisciplinary research for management]{.theme-tag .tag-3}
+
+Do protected areas benefit the people who live alongside them? With the Smithsonian Environmental Research Center, I am exploring how mangrove protected areas relate to ecosystem health and human wellbeing in coastal communities.
+:::
+:::
+
+The project integrates household socioeconomic and health data from the Demographic and Health Surveys (DHS) program with mangrove vegetation change data. My role centers on data acquisition and processing, building automated workflows in R, and fitting and selecting multilevel statistical models.
+
+## Key insights
+
+- This work is ongoing; results will help guide conservation decisions that support both people and ecosystems.
+
+## Methods & tools
+
+Demographic and Health Surveys data · generalized linear mixed models · Bayesian modeling (brms) · rdhs · R
+
+[← Back to Research](../research.qmd){.back-link}

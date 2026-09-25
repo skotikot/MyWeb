@@ -1,0 +1,33 @@
+---
+title: "Climate risks to agriculture"
+subtitle: "Mapping frost and extreme-weather threats to farming systems"
+---
+
+::: {.topic-banner}
+<img src="../images/research/agri-risk.svg" alt="Climate risks to agriculture">
+
+::: {}
+[Theme 1 · Mapping spatiotemporal patterns]{.theme-tag .tag-1}
+
+My earliest research used Earth observation and GIS to support climate-smart agriculture and food security, much of it as part of the SERVIR program, a NASA–USAID initiative that brings satellite data into decision-making.
+:::
+:::
+
+A focus of this work was frost, which periodically damages Kenya's highland tea plantations. I mapped frost risk in the Aberdare region, tested how well MODIS land surface temperature detects frost events, and statistically characterized frost zones in the Kenyan highlands.
+
+## Key insights
+
+- Satellite-derived land surface temperature can help identify frost events in tea-growing areas where ground observations are sparse.
+- Vulnerability to extreme weather varies considerably across space, reinforcing the need for landscape-level, place-based adaptation.
+
+## Methods & tools
+
+MODIS land surface temperature · Landsat · SRTM elevation · GIS-based risk modeling · spatial statistics
+
+## Related publications
+
+- **Kotikot, S.M.**, Flores, A., Griffin, R.E., et al. (2020). Statistical characterization of frost zones: Case of tea freeze damage in the Kenyan highlands. *International Journal of Applied Earth Observation and Geoinformation*, 84, 101971. [DOI](https://doi.org/10.1016/j.jag.2019.101971){.badge-doi}
+- **Kotikot, S.M.**, Flores, A., Griffin, R.E., et al. (2018). Mapping threats to agriculture in East Africa: Performance of MODIS-derived LST for frost identification in Kenya's tea plantations. *International Journal of Applied Earth Observation and Geoinformation*, 72, 131–139. [DOI](https://doi.org/10.1016/j.jag.2018.05.009){.badge-doi}
+- **Kotikot, S.M.**, & Onywere, S.M. (2015). Application of GIS and remote sensing techniques in frost risk mapping for mitigating agricultural losses in the Aberdare ecosystem, Kenya. *Geocarto International*, 30(1), 104–121. [DOI](https://doi.org/10.1080/10106049.2014.965758){.badge-doi}
+
+[← Back to Research](../research.qmd){.back-link}

@@ -1,0 +1,33 @@
+---
+title: "Geospatial decision analysis"
+subtitle: "Siting and planning infrastructure under climate change"
+---
+
+::: {.topic-banner}
+<img src="../images/research/decision-support.svg" alt="Geospatial decision analysis">
+
+::: {}
+[Theme 3 · Transdisciplinary research for management]{.theme-tag .tag-3}
+
+At Oak Ridge National Laboratory, I developed geospatial frameworks to support planning for critical infrastructure and climate adaptation.
+:::
+:::
+
+Projects included a multicriteria decision analysis for the strategic placement of reserve generators in Puerto Rico, planning green infrastructure placement using projected precipitation, estimating household electricity demand for urban infrastructure planning in select African countries, and exploring nighttime satellite imagery (VIIRS Day/Night Band) for monitoring power recovery.
+
+## Key insights
+
+- Physical landscape attributes, socioeconomic conditions, and environmental factors jointly shape vulnerability, so siting decisions benefit from integrating all three.
+- Incorporating climate projections helps target infrastructure where future needs will be greatest.
+
+## Methods & tools
+
+GIS-based multicriteria decision analysis · climate projections · VIIRS nighttime lights · R · Python · ArcGIS
+
+## Related publications
+
+- **Kotikot, S.M.**, Kar, B., & Omitaomu, O.A. (2020). A geospatial framework using multicriteria decision analysis for strategic placement of reserve generators in Puerto Rico. *IEEE Transactions on Engineering Management*, 67(3), 659–669. [DOI](https://doi.org/10.1109/tem.2020.2964606){.badge-doi}
+- Omitaomu, O.A., **Kotikot, S.M.**, & Parish, E.S. (2021). Planning green infrastructure placement based on projected precipitation data. *Journal of Environmental Management*, 279, 111718. [DOI](https://doi.org/10.1016/j.jenvman.2020.111718){.badge-doi}
+- **Kotikot, S.M.**, Ajinjeru, C., Odukomaiya, A., & Omitaomu, O.A. (2018). Geospatial framework for estimating household electricity demand for urban infrastructure planning in select African countries. *2018 IEEE PES/IAS PowerAfrica*, 613–618. [DOI](https://doi.org/10.1109/powerafrica.2018.8521122){.badge-doi}
+
+[← Back to Research](../research.qmd){.back-link}

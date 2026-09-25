@@ -1,0 +1,84 @@
+---
+title: "Publications"
+subtitle: "Peer-reviewed articles and conference papers"
+---
+
+For the most up-to-date list and citation metrics, see my [Google Scholar profile](https://scholar.google.com/citations?user=GiHpEEsAAAAJ&hl=en).
+
+[Under review]{.pub-year}
+
+::: {.pub}
+**Kotikot, S.M.**, Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. Designing regenerative landscapes: Using spatial indicators to diagnose landscape reorganization under alternative policies and management. *Environmental and Sustainability Indicators*. [Under review]{.badge-status}
+:::
+
+[2026]{.pub-year}
+
+::: {.pub}
+**Kotikot, S.M.**, Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2026). Modeling multifunctional landscape change in southern Kenya: Spatial trade-offs and drivers in an arid and semi-arid landscape. *Ecological Informatics*, 98, 103959. [DOI](https://doi.org/10.1016/j.ecoinf.2026.103959){.badge-doi}
+:::
+
+[2025]{.pub-year}
+
+::: {.pub}
+**Kotikot, S.M.**, Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2025). Historical land policies influence contemporary landscape patterns in agropastoral landscapes. *Landscape Ecology*, 40, 163. [DOI](https://doi.org/10.1007/s10980-025-02178-x){.badge-doi}
+:::
+
+::: {.pub}
+**Kotikot, S.M.**, Smithwick, E.A.H., Nankaya, J., Gergel, S., Zimmerer, K., & Abila, R. (2025). Heterogeneous perceptions of rainfall patterns among agropastoral land users in Sub-Saharan Africa. *Annals of the American Association of Geographers*, 1–23. [DOI](https://doi.org/10.1080/24694452.2025.2482899){.badge-doi}
+:::
+
+::: {.pub}
+Viquez, Y., Das, B., **Kotikot, S.M.**, Baloukas, E., Canty, S.W.J., Cissell, J.R., Romero-Gonzalez, T.E., Connette, G., & Collin, R. (2025). Application of open access data for documenting mangrove cover, cover change, and uncertainty in Panama. *Bulletin of Marine Science*, 101(3), 1475–1495. [DOI](https://doi.org/10.5343/bms.2024.0001){.badge-doi}
+:::
+
+[2024]{.pub-year}
+
+::: {.pub}
+**Kotikot, S.M.**, Spencer, O., Cissell, J.R., Connette, G., Smithwick, E.A.H., Durdall, A., Grimes, K.W., Stewart, H.A., Tzadik, O., & Canty, S.W.J. (2024). Building a mangrove ecosystem monitoring tool for managers using Sentinel-2 imagery in Google Earth Engine. *Ocean & Coastal Management*, 256, 107307. [DOI](https://doi.org/10.1016/j.ocecoaman.2024.107307){.badge-doi}
+:::
+
+::: {.pub}
+**Kotikot, S.M.**, Smithwick, E.A.H., & Greatrex, H. (2024). Observations of enhanced rainfall variability in Kenya, East Africa. *Scientific Reports*, 14, 12915. [DOI](https://doi.org/10.1038/s41598-024-63786-2){.badge-doi}
+:::
+
+[2021]{.pub-year}
+
+::: {.pub}
+**Kotikot, S.M.**, Omitaomu, O.A., & Parish, E.S. (2021). Spatial–temporal patterns of historical, near-term, and projected drought in the conterminous United States. *Hydrology*, 8(3), 136. [DOI](https://doi.org/10.3390/hydrology8030136){.badge-doi}
+:::
+
+::: {.pub}
+Omitaomu, O.A., **Kotikot, S.M.**, & Parish, E.S. (2021). Planning green infrastructure placement based on projected precipitation data. *Journal of Environmental Management*, 279, 111718. [DOI](https://doi.org/10.1016/j.jenvman.2020.111718){.badge-doi}
+:::
+
+[2020]{.pub-year}
+
+::: {.pub}
+**Kotikot, S.M.**, Flores, A., Griffin, R.E., Nyaga, J., Case, J.L., Mugo, R., Sedah, A., Adams, E., Limaye, A., & Irwin, D.E. (2020). Statistical characterization of frost zones: Case of tea freeze damage in the Kenyan highlands. *International Journal of Applied Earth Observation and Geoinformation*, 84, 101971. [DOI](https://doi.org/10.1016/j.jag.2019.101971){.badge-doi}
+:::
+
+::: {.pub}
+**Kotikot, S.M.**, Kar, B., & Omitaomu, O.A. (2020). A geospatial framework using multicriteria decision analysis for strategic placement of reserve generators in Puerto Rico. *IEEE Transactions on Engineering Management*, 67(3), 659–669. [DOI](https://doi.org/10.1109/tem.2020.2964606){.badge-doi}
+:::
+
+[2018]{.pub-year}
+
+::: {.pub}
+**Kotikot, S.M.**, Flores, A., Griffin, R.E., Sedah, A., Nyaga, J., Mugo, R., Limaye, A., & Irwin, D.E. (2018). Mapping threats to agriculture in East Africa: Performance of MODIS-derived LST for frost identification in Kenya's tea plantations. *International Journal of Applied Earth Observation and Geoinformation*, 72, 131–139. [DOI](https://doi.org/10.1016/j.jag.2018.05.009){.badge-doi}
+:::
+
+::: {.pub}
+**Kotikot, S.M.**, Ajinjeru, C., Odukomaiya, A., & Omitaomu, O.A. (2018). Geospatial framework for estimating household electricity demand for urban infrastructure planning in select African countries. *2018 IEEE PES/IAS PowerAfrica*, 613–618. [DOI](https://doi.org/10.1109/powerafrica.2018.8521122){.badge-doi}
+:::
+
+[2017]{.pub-year}
+
+::: {.pub}
+Al-Hamdan, M.Z., Oduor, P., Flores, A.I., **Kotikot, S.M.**, Mugo, R., Ababu, J., & Farah, H. (2017). Evaluating land cover changes in Eastern and Southern Africa from 2000 to 2010 using validated Landsat and MODIS data. *International Journal of Applied Earth Observation and Geoinformation*, 62, 8–26. [DOI](https://doi.org/10.1016/j.jag.2017.04.007){.badge-doi}
+:::
+
+[2015]{.pub-year}
+
+::: {.pub}
+**Kotikot, S.M.**, & Onywere, S.M. (2015). Application of GIS and remote sensing techniques in frost risk mapping for mitigating agricultural losses in the Aberdare ecosystem, Kenya. *Geocarto International*, 30(1), 104–121. [DOI](https://doi.org/10.1080/10106049.2014.965758){.badge-doi}
+:::

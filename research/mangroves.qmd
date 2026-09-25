@@ -1,0 +1,34 @@
+---
+title: "Mangrove monitoring & decision support"
+subtitle: "Open tools for coastal ecosystem managers"
+---
+
+::: {.topic-banner}
+<img src="../images/research/mangroves.svg" alt="Mangrove monitoring & decision support">
+
+::: {}
+[Theme 3 · Transdisciplinary research for management]{.theme-tag .tag-3}
+
+Mangroves protect coastlines, store carbon, and support fisheries, yet managers in many regions lack consistent, current data on where mangroves are being lost or recovering.
+:::
+:::
+
+As a graduate fellow with the Smithsonian's Marine Conservation Lab, I led a team that built a mangrove monitoring tool for ecosystem managers in the Caribbean. I developed a Random Forest classification in Google Earth Engine using Sentinel-2 imagery to produce multitemporal mangrove-cover maps, and coordinated research activities including engagement with local stakeholders.
+
+I also contributed to work documenting mangrove cover, change, and uncertainty in Panama using open-access data.
+
+## Key insights
+
+- Freely available satellite data and cloud computing can give non-technical managers timely, easy-to-use information on mangrove change.
+- The study highlighted numerous threats to mangroves and the need for adaptive management to curb degradation.
+
+## Methods & tools
+
+Google Earth Engine · Sentinel-2 · Random Forest classification · stakeholder engagement
+
+## Related publications
+
+- **Kotikot, S.M.**, Spencer, O., Cissell, J.R., Connette, G., Smithwick, E.A.H., et al. (2024). Building a mangrove ecosystem monitoring tool for managers using Sentinel-2 imagery in Google Earth Engine. *Ocean & Coastal Management*, 256, 107307. [DOI](https://doi.org/10.1016/j.ocecoaman.2024.107307){.badge-doi}
+- Viquez, Y., Das, B., **Kotikot, S.M.**, et al. (2025). Application of open access data for documenting mangrove cover, cover change, and uncertainty in Panama. *Bulletin of Marine Science*, 101(3), 1475–1495. [DOI](https://doi.org/10.5343/bms.2024.0001){.badge-doi}
+
+[← Back to Research](../research.qmd){.back-link}

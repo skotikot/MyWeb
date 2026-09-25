@@ -1,0 +1,37 @@
+---
+title: "Regenerative landscape design"
+subtitle: "Designing landscapes that do more than bounce back"
+---
+
+::: {.topic-banner}
+<img src="../images/research/regenerative.svg" alt="Regenerative landscape design">
+
+::: {}
+[Theme 2 · Modeling integrated landscapes]{.theme-tag .tag-2}
+
+Resilience is often framed as a system's ability to recover after disturbance. Regenerative thinking goes further, asking how landscapes can be intentionally shaped to strengthen their health, adaptive capacity, and potential to renew themselves.
+:::
+:::
+
+Using spatial indicators of heterogeneity, fragmentation, connectivity, and functional adjacency, I diagnose how landscapes reorganize under alternative land-tenure regimes and management strategies, and I heuristically 'design' alternative landscape structures to test which ones best support human and environmental wellbeing.
+
+## Key insights
+
+- Group-based land governance tends to maintain more heterogeneous landscapes, with more forest patches and better connectivity.
+- Privatization tends to homogenize landscapes through cropland aggregation and the loss of small forest patches.
+- Targeted strategies, especially conserving small forest patches and enhancing connectivity corridors, yield the strongest gains under climatic stress, whereas broad bundled interventions can underperform because their spatial effects offset each other.
+
+## Methods & tools
+
+Spatial indicators · FRAGSTATS · Circuitscape · scenario design · participatory planning · R
+
+## Related publications
+
+- **Kotikot, S.M.**, Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. Designing regenerative landscapes: Using spatial indicators to diagnose landscape reorganization under alternative policies and management. *Environmental and Sustainability Indicators*. [Under review]{.badge-status}
+- **Kotikot, S.M.**, Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2026). Modeling multifunctional landscape change in southern Kenya: Spatial trade-offs and drivers in an arid and semi-arid landscape. *Ecological Informatics*, 98, 103959. [DOI](https://doi.org/10.1016/j.ecoinf.2026.103959){.badge-doi}
+
+## Code
+
+- [ASAL-Regenerative-Landscape-Indicators](https://github.com/skotikot/ASAL-Regenerative-Landscape-Indicators): R scripts evaluating landscape heterogeneity, forest fragmentation and functional adjacency
+
+[← Back to Research](../research.qmd){.back-link}

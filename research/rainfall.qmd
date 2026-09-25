@@ -1,0 +1,33 @@
+---
+title: "Rainfall variability & drought"
+subtitle: "Characterizing climate patterns across space and time"
+---
+
+::: {.topic-banner}
+<img src="../images/research/rainfall.svg" alt="Rainfall variability & drought">
+
+::: {}
+[Theme 1 · Mapping spatiotemporal patterns]{.theme-tag .tag-1}
+
+Rainfall is the lifeblood of farming and pastoral systems, and shifts in its timing and reliability ripple through livelihoods and ecosystems. I characterize how rainfall and drought vary across multiple space and time scales to reveal where and when landscapes are most exposed.
+:::
+:::
+
+In Kenya, I combined self-organizing maps with wavelet analysis to describe rainfall variability at annual, seasonal, and intra-seasonal scales. At Oak Ridge National Laboratory, I examined historical, near-term, and projected drought across the conterminous United States.
+
+## Key insights
+
+- Rainfall in the study region has become more variable at annual, seasonal, and intra-seasonal scales.
+- Extreme wet and dry events are becoming more frequent, with potential harm to crop and pasture systems.
+- Rainfall patterns are highly heterogeneous across space, so impacts are unevenly distributed across a landscape.
+
+## Methods & tools
+
+Self-organizing maps · wavelet analysis · gridded and station climate data · downscaled climate projections · R · Python · CDO
+
+## Related publications
+
+- **Kotikot, S.M.**, Smithwick, E.A.H., & Greatrex, H. (2024). Observations of enhanced rainfall variability in Kenya, East Africa. *Scientific Reports*, 14, 12915. [DOI](https://doi.org/10.1038/s41598-024-63786-2){.badge-doi}
+- **Kotikot, S.M.**, Omitaomu, O.A., & Parish, E.S. (2021). Spatial–temporal patterns of historical, near-term, and projected drought in the conterminous United States. *Hydrology*, 8(3), 136. [DOI](https://doi.org/10.3390/hydrology8030136){.badge-doi}
+
+[← Back to Research](../research.qmd){.back-link}

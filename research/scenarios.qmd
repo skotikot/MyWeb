@@ -1,0 +1,37 @@
+---
+title: "Land-use simulation & scenarios"
+subtitle: "Modeling multifunctional landscapes under alternative futures"
+---
+
+::: {.topic-banner}
+<img src="../images/research/scenarios.svg" alt="Land-use simulation & scenarios">
+
+::: {}
+[Theme 2 · Modeling integrated landscapes]{.theme-tag .tag-2}
+
+How will a landscape look in coming decades under different land policies, farm management strategies, and climate conditions? I build spatially explicit land-use change models to explore these futures and the trade-offs among the services landscapes provide.
+:::
+:::
+
+As a postdoctoral scholar at Penn State's Earth and Environmental Systems Institute, I parameterized and calibrated a land-change model for an arid and semi-arid agropastoral system in southern Kenya, part of the NSF-funded project <em>Towards regenerative landscape futures</em>.
+
+The work is guided by two ideas: that policies supporting flexible, heterogeneous land use sustain ecosystem services under stress better than policies that 'harden' landscape structure, and that landscapes structured at the scale of adaptive livelihoods are more likely to regenerate.
+
+## Key insights
+
+- Future land-use patterns reflect a complex interplay between rising demand for, and limited supply of, suitable agricultural land.
+- Simulations reveal spatial trade-offs among land uses and ecosystem services that differ across policy and climate scenarios.
+
+## Methods & tools
+
+TerrSet Land Change Modeler · scenario analysis · landscape metrics · R · ArcGIS Pro
+
+## Related publications
+
+- **Kotikot, S.M.**, Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2026). Modeling multifunctional landscape change in southern Kenya: Spatial trade-offs and drivers in an arid and semi-arid landscape. *Ecological Informatics*, 98, 103959. [DOI](https://doi.org/10.1016/j.ecoinf.2026.103959){.badge-doi}
+
+## Code
+
+- [Modeling-Multifunctional-Landscape-Change](https://github.com/skotikot/Modeling-Multifunctional-Landscape-Change): R workflow and visualization scripts for modeling landscape change and spatial trade-offs
+
+[← Back to Research](../research.qmd){.back-link}

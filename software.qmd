@@ -1,0 +1,66 @@
+---
+title: "Software & Code"
+subtitle: "Open, reproducible tools and workflows from my research"
+---
+
+I share the code behind my research so that others can reproduce, adapt, and build on it. Most of my workflows are written in R, with Google Earth Engine used for large-scale remote sensing. Browse everything on [GitHub](https://github.com/skotikot).
+
+## Tools
+
+::: {.sw-grid}
+::: {.sw-card}
+### Mangrove Ecosystem Monitoring Tool
+[Google Earth Engine · Sentinel-2 · Random Forest]{.meta}
+
+A cloud-based tool that gives coastal ecosystem managers in the Caribbean access to accurate, multitemporal maps of mangrove cover, so they can track loss, gain, and recovery and investigate drivers of decline.
+
+<!-- TODO: add the link to the live Earth Engine app here, e.g. [Open the tool](https://...) · -->
+[Read the paper](https://doi.org/10.1016/j.ocecoaman.2024.107307)
+:::
+:::
+
+## Research code on GitHub
+
+::: {.sw-grid}
+::: {.sw-card}
+### Landscape-Pattern-Analysis
+[R]{.meta}
+
+A reproducible R pipeline with data preparation workflows and visualization scripts for analyzing landscape patterns.
+
+[View repository](https://github.com/skotikot/Landscape-Pattern-Analysis)
+:::
+
+::: {.sw-card}
+### Modeling-Multifunctional-Landscape-Change
+[R]{.meta}
+
+Analytical workflow and visualization scripts for modeling landscape change and spatial trade-offs in an arid and semi-arid landscape.
+
+[View repository](https://github.com/skotikot/Modeling-Multifunctional-Landscape-Change)
+:::
+
+::: {.sw-card}
+### Perceptions-of-Environmental-Change
+[R]{.meta}
+
+Replication code and processing pipelines that link socio-ecological survey data with multi-temporal remote sensing observations.
+
+[View repository](https://github.com/skotikot/Perceptions-of-Environmental-Change)
+:::
+
+::: {.sw-card}
+### ASAL-Regenerative-Landscape-Indicators
+[R]{.meta}
+
+R scripts and spatial workflows for evaluating landscape heterogeneity, forest fragmentation, and functional adjacency in Narok County, Kenya.
+
+[View repository](https://github.com/skotikot/ASAL-Regenerative-Landscape-Indicators)
+:::
+:::
+
+[See all repositories on GitHub →](https://github.com/skotikot?tab=repositories){.back-link}
+
+## Tools I work with
+
+<span class="pill">R</span><span class="pill">Python</span><span class="pill">Google Earth Engine</span><span class="pill">ArcGIS Pro</span><span class="pill">QGIS</span><span class="pill">ENVI</span><span class="pill">TerrSet / Land Change Modeler</span><span class="pill">FRAGSTATS</span><span class="pill">Circuitscape</span><span class="pill">GitHub</span>

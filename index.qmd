@@ -1,0 +1,92 @@
+---
+pagetitle: "Susan M. Kotikot | Land Use & Landscape Resilience"
+page-layout: full
+---
+
+::: {.hero .column-screen style="background-image: url(images/hero.svg);"}
+<div>
+<div class="hero-name">Susan Malaso Kotikot, PhD</div>
+<div class="tagline">Land use · Landscape resilience · Geospatial science</div>
+<div class="affil">Assistant Research Professor, Department of Geography, Sustainability, Community &amp; Urban Studies · University of Connecticut</div>
+<a class="btn-hero" href="research.html">Explore my research</a>
+<a class="btn-hero alt" href="publications.html">Publications</a>
+</div>
+:::
+
+::: {.column-page}
+
+## About me
+
+::: {.about}
+![](images/profile.jpg){.profile fig-alt="Portrait of Susan Kotikot"}
+
+::: {}
+I am a geographer and landscape ecologist who studies how land-use decisions, governance, and environmental change shape the ability of social-ecological systems to adapt and thrive. My work brings together landscape ecology, remote sensing, GIS, spatial modeling, and the knowledge of the people who live on and manage the land, with the aim of identifying land-use pathways that support climate adaptation, resilience, and regenerative landscape futures.
+
+Much of my research is rooted in the agropastoral landscapes of East Africa, where I examine how historical land policies, rainfall variability, and competing land uses reorganize landscape structure over time. I have also worked on coastal mangrove systems in the Caribbean and Central America, and on climate and infrastructure questions in the United States. Across these settings, I try to produce knowledge and tools that planners, land managers, and policymakers can put to use.
+
+I hold a PhD in Geography and Climate Science from Penn State (2023), an MS in Earth System Science from the University of Alabama in Huntsville, and a BS in Environmental Planning and Management from Kenyatta University. Before joining UConn, I was a postdoctoral scholar with Penn State's Earth and Environmental Systems Institute and the Smithsonian Environmental Research Center, and earlier a research associate at Oak Ridge National Laboratory.
+
+<span class="pill">AGU</span><span class="pill">ESA</span><span class="pill">IALE</span>
+:::
+:::
+
+## Research interests
+
+::: {.interest-grid .three}
+::: {.interest-card}
+#### Land-use & land-cover change
+Mapping how landscapes change, and why, using satellite and historical aerial imagery.
+:::
+
+::: {.interest-card}
+#### Climate variability & impacts
+Characterizing rainfall variability, drought, and climate risks to agricultural systems.
+:::
+
+::: {.interest-card}
+#### Landscape ecology
+Pattern–process relationships, fragmentation, connectivity, and landscape heterogeneity.
+:::
+
+::: {.interest-card}
+#### Social-ecological resilience
+How policy, governance, and land users' experiences shape adaptive capacity.
+:::
+
+::: {.interest-card}
+#### Land-use modeling & scenarios
+Simulating future landscapes under alternative policy, management, and climate pathways.
+:::
+
+::: {.interest-card}
+#### Decision support
+Open, reproducible geospatial tools for land and ecosystem managers.
+:::
+:::
+
+## Beyond research
+
+::: {.interest-grid}
+::: {.interest-card}
+#### Family
+Outside of work, I enjoy spending time with my family.
+:::
+
+::: {.interest-card}
+#### Mentoring
+I enjoy mentoring students, from high-school EnvironMentors and undergraduate REU researchers to graduate students.
+:::
+
+::: {.interest-card}
+#### Women in geography
+I chaired Supporting Women in Geography at Penn State, a student group advancing women in the discipline.
+:::
+
+::: {.interest-card}
+#### Capacity building
+I co-organize an advanced GIScience training with the Grumeti Fund for early-career conservation professionals (42 participants from 10 countries in 2024).
+:::
+:::
+
+:::
