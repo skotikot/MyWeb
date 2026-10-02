@@ -4,7 +4,7 @@ subtitle: "Mapping frost and extreme-weather threats to farming systems"
 ---
 
 ::: {.topic-banner}
-<img src="../images/research/agri-risk.svg" alt="Climate risks to agriculture">
+<img src="../images/placeholders/card-tea.jpg" alt="Climate risks to agriculture">
 
 ::: {}
 [Theme 1 · Mapping spatiotemporal patterns]{.theme-tag .tag-1}

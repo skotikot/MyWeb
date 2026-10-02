@@ -158,3 +158,21 @@ h2 { font-size: 2.1rem; margin-top: 2.4rem; }
   .btn-solid, .btn-outline { padding: .7rem 1.2rem; }
 }
 @media (max-width: 480px) { .navbar-title::after { display: none; } }
+
+/* ---------- RESEARCH CARDS: VIEW button ---------- */
+.ri-card .ri-body p { margin-bottom: 1.2rem; }
+.ri-card .ri-body { display: flex; flex-direction: column; align-items: center; justify-content: space-between; }
+.btn-view { display: inline-block; border: 3px solid #1b6e5a; color: #1b6e5a !important; font-weight: 500; font-size: 1.15rem;
+  text-transform: uppercase; letter-spacing: .04em; padding: .35rem 1.3rem; text-decoration: none; background: transparent; transition: all .2s; }
+.btn-view:hover { background: #1b6e5a; color: #fff !important; }
+.quarto-dark .btn-view { border-color: #3fae5a; color: #3fae5a !important; }
+.quarto-dark .btn-view:hover { background: #3fae5a; color: #fff !important; }
+.theme-block .ri-grid { margin-bottom: 1rem; margin-top: 1.4rem; }
+.theme-1 .ri-title { border-bottom: 5px solid #3fae5a; } .theme-2 .ri-title { border-bottom: 5px solid #f26b1d; } .theme-3 .ri-title { border-bottom: 5px solid #1e9bd7; }
+.topic-banner img { object-fit: cover; }
+
+/* ---------- FIXED, SEMI-TRANSPARENT NAVBAR ---------- */
+#quarto-header { position: fixed !important; top: 0; left: 0; right: 0; z-index: 1030; transform: none !important; }
+#quarto-header.headroom--unpinned, #quarto-header.headroom--pinned { transform: none !important; top: 0 !important; }
+#quarto-header .navbar { background-color: rgba(11, 31, 28, .86) !important; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 2px 14px rgba(0,0,0,.25); }

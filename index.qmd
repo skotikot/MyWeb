@@ -7,9 +7,7 @@ title-block-banner: false
 ```{=html}
 <style>
   /* Home page only: navbar floats over the hero slideshow */
-  #quarto-header { position: absolute !important; top: 0; left: 0; right: 0; z-index: 1030; }
-  #quarto-header .navbar { background: linear-gradient(180deg, rgba(0,0,0,.6), rgba(0,0,0,0)) !important; }
-  #quarto-content, main.content { padding-top: 0 !important; margin-top: 0 !important; }
+    #quarto-content, main.content { padding-top: 0 !important; margin-top: 0 !important; }
   body { padding-top: 0 !important; }
   .hero { margin-top: -16px !important; }
   main.content > *:first-child { margin-top: 0; }

@@ -4,7 +4,7 @@ subtitle: "Open tools for coastal ecosystem managers"
 ---
 
 ::: {.topic-banner}
-<img src="../images/research/mangroves.svg" alt="Mangrove monitoring & decision support">
+<img src="../images/placeholders/card-mangrove.jpg" alt="Mangrove monitoring & decision support">
 
 ::: {}
 [Theme 3 · Transdisciplinary research for management]{.theme-tag .tag-3}

@@ -4,7 +4,7 @@ subtitle: "How policy legacies and competing land uses reshape landscape structu
 ---
 
 ::: {.topic-banner}
-<img src="../images/research/land-change.svg" alt="Land-use & land-cover change">
+<img src="../images/placeholders/card-farmland.jpg" alt="Land-use & land-cover change">
 
 ::: {}
 [Theme 1 · Mapping spatiotemporal patterns]{.theme-tag .tag-1}

@@ -4,7 +4,7 @@ subtitle: "Linking coastal conservation to community outcomes"
 ---
 
 ::: {.topic-banner}
-<img src="../images/research/protected-areas.svg" alt="Protected areas & human wellbeing">
+<img src="../images/placeholders/card-coast.jpg" alt="Protected areas & human wellbeing">
 
 ::: {}
 [Theme 3 · Transdisciplinary research for management]{.theme-tag .tag-3}

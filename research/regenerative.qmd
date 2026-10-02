@@ -4,7 +4,7 @@ subtitle: "Designing landscapes that do more than bounce back"
 ---
 
 ::: {.topic-banner}
-<img src="../images/research/regenerative.svg" alt="Regenerative landscape design">
+<img src="../images/placeholders/card-patches.jpg" alt="Regenerative landscape design">
 
 ::: {}
 [Theme 2 · Modeling integrated landscapes]{.theme-tag .tag-2}

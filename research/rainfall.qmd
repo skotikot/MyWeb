@@ -4,7 +4,7 @@ subtitle: "Characterizing climate patterns across space and time"
 ---
 
 ::: {.topic-banner}
-<img src="../images/research/rainfall.svg" alt="Rainfall variability & drought">
+<img src="../images/placeholders/card-highlands.jpg" alt="Rainfall variability & drought">
 
 ::: {}
 [Theme 1 · Mapping spatiotemporal patterns]{.theme-tag .tag-1}

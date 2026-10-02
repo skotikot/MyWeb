@@ -4,7 +4,7 @@ subtitle: "Bringing lived experience into landscape science"
 ---
 
 ::: {.topic-banner}
-<img src="../images/research/perceptions.svg" alt="Land users' perceptions of environmental change">
+<img src="../images/placeholders/card-village.jpg" alt="Land users' perceptions of environmental change">
 
 ::: {}
 [Theme 2 · Modeling integrated landscapes]{.theme-tag .tag-2}

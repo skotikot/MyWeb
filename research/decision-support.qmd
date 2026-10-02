@@ -4,7 +4,7 @@ subtitle: "Siting and planning infrastructure under climate change"
 ---
 
 ::: {.topic-banner}
-<img src="../images/research/decision-support.svg" alt="Geospatial decision analysis">
+<img src="../images/placeholders/card-gridmap.jpg" alt="Geospatial decision analysis">
 
 ::: {}
 [Theme 3 · Transdisciplinary research for management]{.theme-tag .tag-3}
