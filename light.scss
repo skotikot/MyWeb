@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+$body-bg: #ffffff;
+$body-color: #22302d;
+$link-color: #1b8a43;
+$headings-color: #0b1f1c;
+/*-- scss:rules --*/
+:root {
+  --heading: #0b1f1c; --text: #22302d; --muted: #5b6764;
+  --surface: #ffffff; --card-body: #f4f4f4; --card-text: #555f5c;
+  --soft: #f6f8f7; --tab-bg: #000000; --border: #e3e8e6; --shadow: 0 6px 22px rgba(0,0,0,.08);
+}

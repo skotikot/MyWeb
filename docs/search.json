@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Susan M. Kotikot",
-    "section": "",
-    "text": "Susan Malaso Kotikot, PhD\n\n\nLand use · Landscape resilience · Geospatial science\n\n\nAssistant Research Professor, Department of Geography, Sustainability, Community & Urban Studies · University of Connecticut\n\nExplore my research Publications"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Susan M. Kotikot",
-    "section": "About me",
-    "text": "About me\n\n\n\nI am a geographer and landscape ecologist who studies how land-use decisions, governance, and environmental change shape the ability of social-ecological systems to adapt and thrive. My work brings together landscape ecology, remote sensing, GIS, spatial modeling, and the knowledge of the people who live on and manage the land, with the aim of identifying land-use pathways that support climate adaptation, resilience, and regenerative landscape futures.\nMuch of my research is rooted in the agropastoral landscapes of East Africa, where I examine how historical land policies, rainfall variability, and competing land uses reorganize landscape structure over time. I have also worked on coastal mangrove systems in the Caribbean and Central America, and on climate and infrastructure questions in the United States. Across these settings, I try to produce knowledge and tools that planners, land managers, and policymakers can put to use.\nI hold a PhD in Geography and Climate Science from Penn State (2023), an MS in Earth System Science from the University of Alabama in Huntsville, and a BS in Environmental Planning and Management from Kenyatta University. Before joining UConn, I was a postdoctoral scholar with Penn State’s Earth and Environmental Systems Institute and the Smithsonian Environmental Research Center, and earlier a research associate at Oak Ridge National Laboratory.\nAGUESAIALE"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Susan M. Kotikot",
-    "section": "Research interests",
-    "text": "Research interests\n\n\nLand-use & land-cover change\nMapping how landscapes change, and why, using satellite and historical aerial imagery.\n\n\nClimate variability & impacts\nCharacterizing rainfall variability, drought, and climate risks to agricultural systems.\n\n\nLandscape ecology\nPattern–process relationships, fragmentation, connectivity, and landscape heterogeneity.\n\n\nSocial-ecological resilience\nHow policy, governance, and land users’ experiences shape adaptive capacity.\n\n\nLand-use modeling & scenarios\nSimulating future landscapes under alternative policy, management, and climate pathways.\n\n\nDecision support\nOpen, reproducible geospatial tools for land and ecosystem managers."
-  },
-  {
-    "objectID": "index.html#beyond-research",
-    "href": "index.html#beyond-research",
-    "title": "Susan M. Kotikot",
-    "section": "Beyond research",
-    "text": "Beyond research\n\n\nFamily\nOutside of work, I enjoy spending time with my family.\n\n\nMentoring\nI enjoy mentoring students, from high-school EnvironMentors and undergraduate REU researchers to graduate students.\n\n\nWomen in geography\nI chaired Supporting Women in Geography at Penn State, a student group advancing women in the discipline.\n\n\nCapacity building\nI co-organize an advanced GIScience training with the Grumeti Fund for early-career conservation professionals (42 participants from 10 countries in 2024)."
-  },
-  {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Software & Code",
@@ -53,35 +25,42 @@
     "href": "software.html#tools-i-work-with",
     "title": "Software & Code",
     "section": "Tools I work with",
-    "text": "Tools I work with\nRPythonGoogle Earth EngineArcGIS ProQGISENVITerrSet / Land Change ModelerFRAGSTATSCircuitscapeGitHub"
+    "text": "Tools I work with\n\nRPythonGoogle Earth EngineArcGIS ProQGISENVITerrSet / Land Change ModelerFRAGSTATSCircuitscapeGitHub"
   },
   {
-    "objectID": "research/agri-risk.html",
-    "href": "research/agri-risk.html",
-    "title": "Climate risks to agriculture",
+    "objectID": "research/scenarios.html",
+    "href": "research/scenarios.html",
+    "title": "Land-use simulation & scenarios",
     "section": "",
-    "text": "Theme 1 · Mapping spatiotemporal patterns\nMy earliest research used Earth observation and GIS to support climate-smart agriculture and food security, much of it as part of the SERVIR program, a NASA–USAID initiative that brings satellite data into decision-making.\nA focus of this work was frost, which periodically damages Kenya’s highland tea plantations. I mapped frost risk in the Aberdare region, tested how well MODIS land surface temperature detects frost events, and statistically characterized frost zones in the Kenyan highlands."
+    "text": "Theme 2 · Modeling integrated landscapes\nHow will a landscape look in coming decades under different land policies, farm management strategies, and climate conditions? I build spatially explicit land-use change models to explore these futures and the trade-offs among the services landscapes provide.\nAs a postdoctoral scholar at Penn State’s Earth and Environmental Systems Institute, I parameterized and calibrated a land-change model for an arid and semi-arid agropastoral system in southern Kenya, part of the NSF-funded project Towards regenerative landscape futures.\nThe work is guided by two ideas: that policies supporting flexible, heterogeneous land use sustain ecosystem services under stress better than policies that ‘harden’ landscape structure, and that landscapes structured at the scale of adaptive livelihoods are more likely to regenerate."
   },
   {
-    "objectID": "research/agri-risk.html#key-insights",
-    "href": "research/agri-risk.html#key-insights",
-    "title": "Climate risks to agriculture",
+    "objectID": "research/scenarios.html#key-insights",
+    "href": "research/scenarios.html#key-insights",
+    "title": "Land-use simulation & scenarios",
     "section": "Key insights",
-    "text": "Key insights\n\nSatellite-derived land surface temperature can help identify frost events in tea-growing areas where ground observations are sparse.\nVulnerability to extreme weather varies considerably across space, reinforcing the need for landscape-level, place-based adaptation."
+    "text": "Key insights\n\nFuture land-use patterns reflect a complex interplay between rising demand for, and limited supply of, suitable agricultural land.\nSimulations reveal spatial trade-offs among land uses and ecosystem services that differ across policy and climate scenarios."
   },
   {
-    "objectID": "research/agri-risk.html#methods-tools",
-    "href": "research/agri-risk.html#methods-tools",
-    "title": "Climate risks to agriculture",
+    "objectID": "research/scenarios.html#methods-tools",
+    "href": "research/scenarios.html#methods-tools",
+    "title": "Land-use simulation & scenarios",
     "section": "Methods & tools",
-    "text": "Methods & tools\nMODIS land surface temperature · Landsat · SRTM elevation · GIS-based risk modeling · spatial statistics"
+    "text": "Methods & tools\nTerrSet Land Change Modeler · scenario analysis · landscape metrics · R · ArcGIS Pro"
   },
   {
-    "objectID": "research/agri-risk.html#related-publications",
-    "href": "research/agri-risk.html#related-publications",
-    "title": "Climate risks to agriculture",
+    "objectID": "research/scenarios.html#related-publications",
+    "href": "research/scenarios.html#related-publications",
+    "title": "Land-use simulation & scenarios",
     "section": "Related publications",
-    "text": "Related publications\n\nKotikot, S.M., Flores, A., Griffin, R.E., et al. (2020). Statistical characterization of frost zones: Case of tea freeze damage in the Kenyan highlands. International Journal of Applied Earth Observation and Geoinformation, 84, 101971. DOI\nKotikot, S.M., Flores, A., Griffin, R.E., et al. (2018). Mapping threats to agriculture in East Africa: Performance of MODIS-derived LST for frost identification in Kenya’s tea plantations. International Journal of Applied Earth Observation and Geoinformation, 72, 131–139. DOI\nKotikot, S.M., & Onywere, S.M. (2015). Application of GIS and remote sensing techniques in frost risk mapping for mitigating agricultural losses in the Aberdare ecosystem, Kenya. Geocarto International, 30(1), 104–121. DOI\n\n← Back to Research"
+    "text": "Related publications\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2026). Modeling multifunctional landscape change in southern Kenya: Spatial trade-offs and drivers in an arid and semi-arid landscape. Ecological Informatics, 98, 103959. DOI"
+  },
+  {
+    "objectID": "research/scenarios.html#code",
+    "href": "research/scenarios.html#code",
+    "title": "Land-use simulation & scenarios",
+    "section": "Code",
+    "text": "Code\n\nModeling-Multifunctional-Landscape-Change: R workflow and visualization scripts for modeling landscape change and spatial trade-offs\n\n← Back to Research"
   },
   {
     "objectID": "research/rainfall.html",
@@ -112,25 +91,158 @@
     "text": "Related publications\n\nKotikot, S.M., Smithwick, E.A.H., & Greatrex, H. (2024). Observations of enhanced rainfall variability in Kenya, East Africa. Scientific Reports, 14, 12915. DOI\nKotikot, S.M., Omitaomu, O.A., & Parish, E.S. (2021). Spatial–temporal patterns of historical, near-term, and projected drought in the conterminous United States. Hydrology, 8(3), 136. DOI\n\n← Back to Research"
   },
   {
-    "objectID": "research/protected-areas.html",
-    "href": "research/protected-areas.html",
-    "title": "Protected areas & human wellbeing",
+    "objectID": "research/perceptions.html",
+    "href": "research/perceptions.html",
+    "title": "Land users’ perceptions of environmental change",
     "section": "",
-    "text": "Theme 3 · Transdisciplinary research for management\nDo protected areas benefit the people who live alongside them? With the Smithsonian Environmental Research Center, I am exploring how mangrove protected areas relate to ecosystem health and human wellbeing in coastal communities.\nThe project integrates household socioeconomic and health data from the Demographic and Health Surveys (DHS) program with mangrove vegetation change data. My role centers on data acquisition and processing, building automated workflows in R, and fitting and selecting multilevel statistical models."
+    "text": "Theme 2 · Modeling integrated landscapes\nFarmers and pastoralists experience climate change through their fields, herds, and livelihoods. Their perceptions embody local and Indigenous knowledge and shape how they respond, which makes them essential for designing locally relevant adaptation.\nWorking with colleagues at Maasai Mara University, I studied how agropastoral land users in southern Kenya perceive changes in rainfall and in crop and pasture productivity, and how these perceptions compare with observed data."
   },
   {
-    "objectID": "research/protected-areas.html#key-insights",
-    "href": "research/protected-areas.html#key-insights",
-    "title": "Protected areas & human wellbeing",
+    "objectID": "research/perceptions.html#key-insights",
+    "href": "research/perceptions.html#key-insights",
+    "title": "Land users’ perceptions of environmental change",
     "section": "Key insights",
-    "text": "Key insights\n\nThis work is ongoing; results will help guide conservation decisions that support both people and ecosystems."
+    "text": "Key insights\n\nPerceptions varied widely among land users, signaling that climate impacts are felt differently across households and livelihoods.\nPerceptions did not always match observed climate and environmental data, yet they reflected real impacts on local livelihoods.\nIncorporating human dimensions is critical for landscape-scale modeling and management."
   },
   {
-    "objectID": "research/protected-areas.html#methods-tools",
-    "href": "research/protected-areas.html#methods-tools",
-    "title": "Protected areas & human wellbeing",
+    "objectID": "research/perceptions.html#methods-tools",
+    "href": "research/perceptions.html#methods-tools",
+    "title": "Land users’ perceptions of environmental change",
     "section": "Methods & tools",
-    "text": "Methods & tools\nDemographic and Health Surveys data · generalized linear mixed models · Bayesian modeling (brms) · rdhs · R\n← Back to Research"
+    "text": "Methods & tools\nHousehold surveys · remotely sensed rainfall and vegetation productivity · ordination analysis · mixed methods · R"
+  },
+  {
+    "objectID": "research/perceptions.html#related-publications",
+    "href": "research/perceptions.html#related-publications",
+    "title": "Land users’ perceptions of environmental change",
+    "section": "Related publications",
+    "text": "Related publications\n\nKotikot, S.M., Smithwick, E.A.H., Nankaya, J., Gergel, S., Zimmerer, K., & Abila, R. (2025). Heterogeneous perceptions of rainfall patterns among agropastoral land users in Sub-Saharan Africa. Annals of the American Association of Geographers, 1–23. DOI"
+  },
+  {
+    "objectID": "research/perceptions.html#code",
+    "href": "research/perceptions.html#code",
+    "title": "Land users’ perceptions of environmental change",
+    "section": "Code",
+    "text": "Code\n\nPerceptions-of-Environmental-Change: Replication code linking survey data with multi-temporal remote sensing\n\n← Back to Research"
+  },
+  {
+    "objectID": "research/land-change.html",
+    "href": "research/land-change.html",
+    "title": "Land-use & land-cover change",
+    "section": "",
+    "text": "Theme 1 · Mapping spatiotemporal patterns\nLandscapes carry the imprint of past decisions. I use satellite imagery and classified historical aerial photographs to reconstruct how land use and land cover have changed, and to connect those changes to their social, political, and climatic drivers.\nMy early regional work across Eastern and Southern Africa found patchy, spatially varying losses and gains in forest and cropland that largely offset one another in net terms, and that showed little relationship to national-level rainfall and temperature trends, pointing instead to socioeconomic and policy drivers.\nMore recently, in the agropastoral landscape of Narok, Kenya, I traced how historical land policies continue to shape contemporary land-use patterns."
+  },
+  {
+    "objectID": "research/land-change.html#key-insights",
+    "href": "research/land-change.html#key-insights",
+    "title": "Land-use & land-cover change",
+    "section": "Key insights",
+    "text": "Key insights\n\nLand-cover change reflects an interplay between historical land policies and competition among land uses for resources.\nThe landscape has become increasingly homogeneous, a shift with potential consequences for social-ecological resilience.\nLand use closely tracks the uneven climate patterns that govern land productivity."
+  },
+  {
+    "objectID": "research/land-change.html#methods-tools",
+    "href": "research/land-change.html#methods-tools",
+    "title": "Land-use & land-cover change",
+    "section": "Methods & tools",
+    "text": "Methods & tools\nLandsat and MODIS imagery · historical aerial photographs · image classification and change detection · landscape metrics (FRAGSTATS) · R"
+  },
+  {
+    "objectID": "research/land-change.html#related-publications",
+    "href": "research/land-change.html#related-publications",
+    "title": "Land-use & land-cover change",
+    "section": "Related publications",
+    "text": "Related publications\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2025). Historical land policies influence contemporary landscape patterns in agropastoral landscapes. Landscape Ecology, 40, 163. DOI\nAl-Hamdan, M.Z., Oduor, P., Flores, A.I., Kotikot, S.M., et al. (2017). Evaluating land cover changes in Eastern and Southern Africa from 2000 to 2010 using validated Landsat and MODIS data. International Journal of Applied Earth Observation and Geoinformation, 62, 8–26. DOI"
+  },
+  {
+    "objectID": "research/land-change.html#code",
+    "href": "research/land-change.html#code",
+    "title": "Land-use & land-cover change",
+    "section": "Code",
+    "text": "Code\n\nLandscape-Pattern-Analysis: Reproducible R pipeline, data preparation and visualization scripts\n\n← Back to Research"
+  },
+  {
+    "objectID": "research/agri-risk.html",
+    "href": "research/agri-risk.html",
+    "title": "Climate risks to agriculture",
+    "section": "",
+    "text": "Theme 1 · Mapping spatiotemporal patterns\nMy earliest research used Earth observation and GIS to support climate-smart agriculture and food security, much of it as part of the SERVIR program, a NASA–USAID initiative that brings satellite data into decision-making.\nA focus of this work was frost, which periodically damages Kenya’s highland tea plantations. I mapped frost risk in the Aberdare region, tested how well MODIS land surface temperature detects frost events, and statistically characterized frost zones in the Kenyan highlands."
+  },
+  {
+    "objectID": "research/agri-risk.html#key-insights",
+    "href": "research/agri-risk.html#key-insights",
+    "title": "Climate risks to agriculture",
+    "section": "Key insights",
+    "text": "Key insights\n\nSatellite-derived land surface temperature can help identify frost events in tea-growing areas where ground observations are sparse.\nVulnerability to extreme weather varies considerably across space, reinforcing the need for landscape-level, place-based adaptation."
+  },
+  {
+    "objectID": "research/agri-risk.html#methods-tools",
+    "href": "research/agri-risk.html#methods-tools",
+    "title": "Climate risks to agriculture",
+    "section": "Methods & tools",
+    "text": "Methods & tools\nMODIS land surface temperature · Landsat · SRTM elevation · GIS-based risk modeling · spatial statistics"
+  },
+  {
+    "objectID": "research/agri-risk.html#related-publications",
+    "href": "research/agri-risk.html#related-publications",
+    "title": "Climate risks to agriculture",
+    "section": "Related publications",
+    "text": "Related publications\n\nKotikot, S.M., Flores, A., Griffin, R.E., et al. (2020). Statistical characterization of frost zones: Case of tea freeze damage in the Kenyan highlands. International Journal of Applied Earth Observation and Geoinformation, 84, 101971. DOI\nKotikot, S.M., Flores, A., Griffin, R.E., et al. (2018). Mapping threats to agriculture in East Africa: Performance of MODIS-derived LST for frost identification in Kenya’s tea plantations. International Journal of Applied Earth Observation and Geoinformation, 72, 131–139. DOI\nKotikot, S.M., & Onywere, S.M. (2015). Application of GIS and remote sensing techniques in frost risk mapping for mitigating agricultural losses in the Aberdare ecosystem, Kenya. Geocarto International, 30(1), 104–121. DOI\n\n← Back to Research"
+  },
+  {
+    "objectID": "MyWebsite/index.html",
+    "href": "MyWebsite/index.html",
+    "title": "MyWebsite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kotikot",
+    "section": "",
+    "text": "Mapping change.Modeling futures.Building resilient landscapes.\n\n\nI use geospatial science to understand how land use, governance, and a changing climate reshape landscapes, and to find pathways that help people and ecosystems adapt and thrive.\n\n\nExplore my researchPublications\n\n\n\n\n\n\n\n\n\n\nSusan Malaso Kotikot, PhD\nAssistant Research Professor\nDepartment of Geography, Sustainability, Community & Urban StudiesUniversity of Connecticut\n\n\n\n\n\nAbout me\nI am a geographer and landscape ecologist who studies how land-use decisions, governance, and environmental change shape the ability of social-ecological systems to adapt and thrive. My work brings together landscape ecology, remote sensing, GIS, spatial modeling, and the knowledge of the people who live on and manage the land, with the aim of identifying land-use pathways that support climate adaptation, resilience, and regenerative landscape futures.\nMuch of my research is rooted in the agropastoral landscapes of East Africa, where I examine how historical land policies, rainfall variability, and competing land uses reorganize landscape structure over time. I have also worked on coastal mangrove systems in the Caribbean and Central America, and on climate and infrastructure questions in the United States. Across these settings, I try to produce knowledge and tools that planners, land managers, and policymakers can put to use.\nI hold a PhD in Geography and Climate Science from Penn State (2023), an MS in Earth System Science from the University of Alabama in Huntsville, and a BS in Environmental Planning and Management from Kenyatta University. Before joining UConn, I was a postdoctoral scholar with Penn State’s Earth and Environmental Systems Institute and the Smithsonian Environmental Research Center, and earlier a research associate at Oak Ridge National Laboratory.\nAGUESAIALE\n\n\nResearch Interests\n\n  \n    Land-Use & Land-Cover Change\n    Mapping how landscapes change, and why, using satellite and historical aerial imagery.\n  \n    Climate Variability & Impacts\n    Characterizing rainfall variability, drought, and climate risks to agricultural systems.\n  \n    Landscape Ecology\n    Pattern–process relationships, fragmentation, connectivity, and landscape heterogeneity.\n  \n    Social-Ecological Resilience\n    How policy, governance, and land users' experiences shape adaptive capacity.\n  \n    Land-Use Modeling & Scenarios\n    Simulating future landscapes under alternative policy, management, and climate pathways.\n  \n    Decision Support\n    Open, reproducible geospatial tools for land and ecosystem managers."
+  },
+  {
+    "objectID": "MyWebsite/about.html",
+    "href": "MyWebsite/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "For the most up-to-date list and citation metrics, see my Google Scholar profile.\nUnder review\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. Designing regenerative landscapes: Using spatial indicators to diagnose landscape reorganization under alternative policies and management. Environmental and Sustainability Indicators. Under review\n\n2026\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2026). Modeling multifunctional landscape change in southern Kenya: Spatial trade-offs and drivers in an arid and semi-arid landscape. Ecological Informatics, 98, 103959. DOI\n\n2025\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2025). Historical land policies influence contemporary landscape patterns in agropastoral landscapes. Landscape Ecology, 40, 163. DOI\n\n\nKotikot, S.M., Smithwick, E.A.H., Nankaya, J., Gergel, S., Zimmerer, K., & Abila, R. (2025). Heterogeneous perceptions of rainfall patterns among agropastoral land users in Sub-Saharan Africa. Annals of the American Association of Geographers, 1–23. DOI\n\n\nViquez, Y., Das, B., Kotikot, S.M., Baloukas, E., Canty, S.W.J., Cissell, J.R., Romero-Gonzalez, T.E., Connette, G., & Collin, R. (2025). Application of open access data for documenting mangrove cover, cover change, and uncertainty in Panama. Bulletin of Marine Science, 101(3), 1475–1495. DOI\n\n2024\n\nKotikot, S.M., Spencer, O., Cissell, J.R., Connette, G., Smithwick, E.A.H., Durdall, A., Grimes, K.W., Stewart, H.A., Tzadik, O., & Canty, S.W.J. (2024). Building a mangrove ecosystem monitoring tool for managers using Sentinel-2 imagery in Google Earth Engine. Ocean & Coastal Management, 256, 107307. DOI\n\n\nKotikot, S.M., Smithwick, E.A.H., & Greatrex, H. (2024). Observations of enhanced rainfall variability in Kenya, East Africa. Scientific Reports, 14, 12915. DOI\n\n2021\n\nKotikot, S.M., Omitaomu, O.A., & Parish, E.S. (2021). Spatial–temporal patterns of historical, near-term, and projected drought in the conterminous United States. Hydrology, 8(3), 136. DOI\n\n\nOmitaomu, O.A., Kotikot, S.M., & Parish, E.S. (2021). Planning green infrastructure placement based on projected precipitation data. Journal of Environmental Management, 279, 111718. DOI\n\n2020\n\nKotikot, S.M., Flores, A., Griffin, R.E., Nyaga, J., Case, J.L., Mugo, R., Sedah, A., Adams, E., Limaye, A., & Irwin, D.E. (2020). Statistical characterization of frost zones: Case of tea freeze damage in the Kenyan highlands. International Journal of Applied Earth Observation and Geoinformation, 84, 101971. DOI\n\n\nKotikot, S.M., Kar, B., & Omitaomu, O.A. (2020). A geospatial framework using multicriteria decision analysis for strategic placement of reserve generators in Puerto Rico. IEEE Transactions on Engineering Management, 67(3), 659–669. DOI\n\n2018\n\nKotikot, S.M., Flores, A., Griffin, R.E., Sedah, A., Nyaga, J., Mugo, R., Limaye, A., & Irwin, D.E. (2018). Mapping threats to agriculture in East Africa: Performance of MODIS-derived LST for frost identification in Kenya’s tea plantations. International Journal of Applied Earth Observation and Geoinformation, 72, 131–139. DOI\n\n\nKotikot, S.M., Ajinjeru, C., Odukomaiya, A., & Omitaomu, O.A. (2018). Geospatial framework for estimating household electricity demand for urban infrastructure planning in select African countries. 2018 IEEE PES/IAS PowerAfrica, 613–618. DOI\n\n2017\n\nAl-Hamdan, M.Z., Oduor, P., Flores, A.I., Kotikot, S.M., Mugo, R., Ababu, J., & Farah, H. (2017). Evaluating land cover changes in Eastern and Southern Africa from 2000 to 2010 using validated Landsat and MODIS data. International Journal of Applied Earth Observation and Geoinformation, 62, 8–26. DOI\n\n2015\n\nKotikot, S.M., & Onywere, S.M. (2015). Application of GIS and remote sensing techniques in frost risk mapping for mitigating agricultural losses in the Aberdare ecosystem, Kenya. Geocarto International, 30(1), 104–121. DOI"
+  },
+  {
+    "objectID": "research/decision-support.html",
+    "href": "research/decision-support.html",
+    "title": "Geospatial decision analysis",
+    "section": "",
+    "text": "Theme 3 · Transdisciplinary research for management\nAt Oak Ridge National Laboratory, I developed geospatial frameworks to support planning for critical infrastructure and climate adaptation.\nProjects included a multicriteria decision analysis for the strategic placement of reserve generators in Puerto Rico, planning green infrastructure placement using projected precipitation, estimating household electricity demand for urban infrastructure planning in select African countries, and exploring nighttime satellite imagery (VIIRS Day/Night Band) for monitoring power recovery."
+  },
+  {
+    "objectID": "research/decision-support.html#key-insights",
+    "href": "research/decision-support.html#key-insights",
+    "title": "Geospatial decision analysis",
+    "section": "Key insights",
+    "text": "Key insights\n\nPhysical landscape attributes, socioeconomic conditions, and environmental factors jointly shape vulnerability, so siting decisions benefit from integrating all three.\nIncorporating climate projections helps target infrastructure where future needs will be greatest."
+  },
+  {
+    "objectID": "research/decision-support.html#methods-tools",
+    "href": "research/decision-support.html#methods-tools",
+    "title": "Geospatial decision analysis",
+    "section": "Methods & tools",
+    "text": "Methods & tools\nGIS-based multicriteria decision analysis · climate projections · VIIRS nighttime lights · R · Python · ArcGIS"
+  },
+  {
+    "objectID": "research/decision-support.html#related-publications",
+    "href": "research/decision-support.html#related-publications",
+    "title": "Geospatial decision analysis",
+    "section": "Related publications",
+    "text": "Related publications\n\nKotikot, S.M., Kar, B., & Omitaomu, O.A. (2020). A geospatial framework using multicriteria decision analysis for strategic placement of reserve generators in Puerto Rico. IEEE Transactions on Engineering Management, 67(3), 659–669. DOI\nOmitaomu, O.A., Kotikot, S.M., & Parish, E.S. (2021). Planning green infrastructure placement based on projected precipitation data. Journal of Environmental Management, 279, 111718. DOI\nKotikot, S.M., Ajinjeru, C., Odukomaiya, A., & Omitaomu, O.A. (2018). Geospatial framework for estimating household electricity demand for urban infrastructure planning in select African countries. 2018 IEEE PES/IAS PowerAfrica, 613–618. DOI\n\n← Back to Research"
   },
   {
     "objectID": "research/mangroves.html",
@@ -159,6 +271,62 @@
     "title": "Mangrove monitoring & decision support",
     "section": "Related publications",
     "text": "Related publications\n\nKotikot, S.M., Spencer, O., Cissell, J.R., Connette, G., Smithwick, E.A.H., et al. (2024). Building a mangrove ecosystem monitoring tool for managers using Sentinel-2 imagery in Google Earth Engine. Ocean & Coastal Management, 256, 107307. DOI\nViquez, Y., Das, B., Kotikot, S.M., et al. (2025). Application of open access data for documenting mangrove cover, cover change, and uncertainty in Panama. Bulletin of Marine Science, 101(3), 1475–1495. DOI\n\n← Back to Research"
+  },
+  {
+    "objectID": "research/protected-areas.html",
+    "href": "research/protected-areas.html",
+    "title": "Protected areas & human wellbeing",
+    "section": "",
+    "text": "Theme 3 · Transdisciplinary research for management\nDo protected areas benefit the people who live alongside them? With the Smithsonian Environmental Research Center, I am exploring how mangrove protected areas relate to ecosystem health and human wellbeing in coastal communities.\nThe project integrates household socioeconomic and health data from the Demographic and Health Surveys (DHS) program with mangrove vegetation change data. My role centers on data acquisition and processing, building automated workflows in R, and fitting and selecting multilevel statistical models."
+  },
+  {
+    "objectID": "research/protected-areas.html#key-insights",
+    "href": "research/protected-areas.html#key-insights",
+    "title": "Protected areas & human wellbeing",
+    "section": "Key insights",
+    "text": "Key insights\n\nThis work is ongoing; results will help guide conservation decisions that support both people and ecosystems."
+  },
+  {
+    "objectID": "research/protected-areas.html#methods-tools",
+    "href": "research/protected-areas.html#methods-tools",
+    "title": "Protected areas & human wellbeing",
+    "section": "Methods & tools",
+    "text": "Methods & tools\nDemographic and Health Surveys data · generalized linear mixed models · Bayesian modeling (brms) · rdhs · R\n← Back to Research"
+  },
+  {
+    "objectID": "research/regenerative.html",
+    "href": "research/regenerative.html",
+    "title": "Regenerative landscape design",
+    "section": "",
+    "text": "Theme 2 · Modeling integrated landscapes\nResilience is often framed as a system’s ability to recover after disturbance. Regenerative thinking goes further, asking how landscapes can be intentionally shaped to strengthen their health, adaptive capacity, and potential to renew themselves.\nUsing spatial indicators of heterogeneity, fragmentation, connectivity, and functional adjacency, I diagnose how landscapes reorganize under alternative land-tenure regimes and management strategies, and I heuristically ‘design’ alternative landscape structures to test which ones best support human and environmental wellbeing."
+  },
+  {
+    "objectID": "research/regenerative.html#key-insights",
+    "href": "research/regenerative.html#key-insights",
+    "title": "Regenerative landscape design",
+    "section": "Key insights",
+    "text": "Key insights\n\nGroup-based land governance tends to maintain more heterogeneous landscapes, with more forest patches and better connectivity.\nPrivatization tends to homogenize landscapes through cropland aggregation and the loss of small forest patches.\nTargeted strategies, especially conserving small forest patches and enhancing connectivity corridors, yield the strongest gains under climatic stress, whereas broad bundled interventions can underperform because their spatial effects offset each other."
+  },
+  {
+    "objectID": "research/regenerative.html#methods-tools",
+    "href": "research/regenerative.html#methods-tools",
+    "title": "Regenerative landscape design",
+    "section": "Methods & tools",
+    "text": "Methods & tools\nSpatial indicators · FRAGSTATS · Circuitscape · scenario design · participatory planning · R"
+  },
+  {
+    "objectID": "research/regenerative.html#related-publications",
+    "href": "research/regenerative.html#related-publications",
+    "title": "Regenerative landscape design",
+    "section": "Related publications",
+    "text": "Related publications\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. Designing regenerative landscapes: Using spatial indicators to diagnose landscape reorganization under alternative policies and management. Environmental and Sustainability Indicators. Under review\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2026). Modeling multifunctional landscape change in southern Kenya: Spatial trade-offs and drivers in an arid and semi-arid landscape. Ecological Informatics, 98, 103959. DOI"
+  },
+  {
+    "objectID": "research/regenerative.html#code",
+    "href": "research/regenerative.html#code",
+    "title": "Regenerative landscape design",
+    "section": "Code",
+    "text": "Code\n\nASAL-Regenerative-Landscape-Indicators: R scripts evaluating landscape heterogeneity, forest fragmentation and functional adjacency\n\n← Back to Research"
   },
   {
     "objectID": "research.html",
@@ -201,180 +369,5 @@
     "title": "Research",
     "section": "Funding",
     "text": "Funding\nMy research has been supported by the National Science Foundation (Human-Environment and Geographical Sciences program), a National Geographic Society Early Career Grant, the Miller Graduate Student Fellowship, and several internal awards from Penn State."
-  },
-  {
-    "objectID": "research/land-change.html",
-    "href": "research/land-change.html",
-    "title": "Land-use & land-cover change",
-    "section": "",
-    "text": "Theme 1 · Mapping spatiotemporal patterns\nLandscapes carry the imprint of past decisions. I use satellite imagery and classified historical aerial photographs to reconstruct how land use and land cover have changed, and to connect those changes to their social, political, and climatic drivers.\nMy early regional work across Eastern and Southern Africa found patchy, spatially varying losses and gains in forest and cropland that largely offset one another in net terms, and that showed little relationship to national-level rainfall and temperature trends, pointing instead to socioeconomic and policy drivers.\nMore recently, in the agropastoral landscape of Narok, Kenya, I traced how historical land policies continue to shape contemporary land-use patterns."
-  },
-  {
-    "objectID": "research/land-change.html#key-insights",
-    "href": "research/land-change.html#key-insights",
-    "title": "Land-use & land-cover change",
-    "section": "Key insights",
-    "text": "Key insights\n\nLand-cover change reflects an interplay between historical land policies and competition among land uses for resources.\nThe landscape has become increasingly homogeneous, a shift with potential consequences for social-ecological resilience.\nLand use closely tracks the uneven climate patterns that govern land productivity."
-  },
-  {
-    "objectID": "research/land-change.html#methods-tools",
-    "href": "research/land-change.html#methods-tools",
-    "title": "Land-use & land-cover change",
-    "section": "Methods & tools",
-    "text": "Methods & tools\nLandsat and MODIS imagery · historical aerial photographs · image classification and change detection · landscape metrics (FRAGSTATS) · R"
-  },
-  {
-    "objectID": "research/land-change.html#related-publications",
-    "href": "research/land-change.html#related-publications",
-    "title": "Land-use & land-cover change",
-    "section": "Related publications",
-    "text": "Related publications\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2025). Historical land policies influence contemporary landscape patterns in agropastoral landscapes. Landscape Ecology, 40, 163. DOI\nAl-Hamdan, M.Z., Oduor, P., Flores, A.I., Kotikot, S.M., et al. (2017). Evaluating land cover changes in Eastern and Southern Africa from 2000 to 2010 using validated Landsat and MODIS data. International Journal of Applied Earth Observation and Geoinformation, 62, 8–26. DOI"
-  },
-  {
-    "objectID": "research/land-change.html#code",
-    "href": "research/land-change.html#code",
-    "title": "Land-use & land-cover change",
-    "section": "Code",
-    "text": "Code\n\nLandscape-Pattern-Analysis: Reproducible R pipeline, data preparation and visualization scripts\n\n← Back to Research"
-  },
-  {
-    "objectID": "research/scenarios.html",
-    "href": "research/scenarios.html",
-    "title": "Land-use simulation & scenarios",
-    "section": "",
-    "text": "Theme 2 · Modeling integrated landscapes\nHow will a landscape look in coming decades under different land policies, farm management strategies, and climate conditions? I build spatially explicit land-use change models to explore these futures and the trade-offs among the services landscapes provide.\nAs a postdoctoral scholar at Penn State’s Earth and Environmental Systems Institute, I parameterized and calibrated a land-change model for an arid and semi-arid agropastoral system in southern Kenya, part of the NSF-funded project Towards regenerative landscape futures.\nThe work is guided by two ideas: that policies supporting flexible, heterogeneous land use sustain ecosystem services under stress better than policies that ‘harden’ landscape structure, and that landscapes structured at the scale of adaptive livelihoods are more likely to regenerate."
-  },
-  {
-    "objectID": "research/scenarios.html#key-insights",
-    "href": "research/scenarios.html#key-insights",
-    "title": "Land-use simulation & scenarios",
-    "section": "Key insights",
-    "text": "Key insights\n\nFuture land-use patterns reflect a complex interplay between rising demand for, and limited supply of, suitable agricultural land.\nSimulations reveal spatial trade-offs among land uses and ecosystem services that differ across policy and climate scenarios."
-  },
-  {
-    "objectID": "research/scenarios.html#methods-tools",
-    "href": "research/scenarios.html#methods-tools",
-    "title": "Land-use simulation & scenarios",
-    "section": "Methods & tools",
-    "text": "Methods & tools\nTerrSet Land Change Modeler · scenario analysis · landscape metrics · R · ArcGIS Pro"
-  },
-  {
-    "objectID": "research/scenarios.html#related-publications",
-    "href": "research/scenarios.html#related-publications",
-    "title": "Land-use simulation & scenarios",
-    "section": "Related publications",
-    "text": "Related publications\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2026). Modeling multifunctional landscape change in southern Kenya: Spatial trade-offs and drivers in an arid and semi-arid landscape. Ecological Informatics, 98, 103959. DOI"
-  },
-  {
-    "objectID": "research/scenarios.html#code",
-    "href": "research/scenarios.html#code",
-    "title": "Land-use simulation & scenarios",
-    "section": "Code",
-    "text": "Code\n\nModeling-Multifunctional-Landscape-Change: R workflow and visualization scripts for modeling landscape change and spatial trade-offs\n\n← Back to Research"
-  },
-  {
-    "objectID": "research/regenerative.html",
-    "href": "research/regenerative.html",
-    "title": "Regenerative landscape design",
-    "section": "",
-    "text": "Theme 2 · Modeling integrated landscapes\nResilience is often framed as a system’s ability to recover after disturbance. Regenerative thinking goes further, asking how landscapes can be intentionally shaped to strengthen their health, adaptive capacity, and potential to renew themselves.\nUsing spatial indicators of heterogeneity, fragmentation, connectivity, and functional adjacency, I diagnose how landscapes reorganize under alternative land-tenure regimes and management strategies, and I heuristically ‘design’ alternative landscape structures to test which ones best support human and environmental wellbeing."
-  },
-  {
-    "objectID": "research/regenerative.html#key-insights",
-    "href": "research/regenerative.html#key-insights",
-    "title": "Regenerative landscape design",
-    "section": "Key insights",
-    "text": "Key insights\n\nGroup-based land governance tends to maintain more heterogeneous landscapes, with more forest patches and better connectivity.\nPrivatization tends to homogenize landscapes through cropland aggregation and the loss of small forest patches.\nTargeted strategies, especially conserving small forest patches and enhancing connectivity corridors, yield the strongest gains under climatic stress, whereas broad bundled interventions can underperform because their spatial effects offset each other."
-  },
-  {
-    "objectID": "research/regenerative.html#methods-tools",
-    "href": "research/regenerative.html#methods-tools",
-    "title": "Regenerative landscape design",
-    "section": "Methods & tools",
-    "text": "Methods & tools\nSpatial indicators · FRAGSTATS · Circuitscape · scenario design · participatory planning · R"
-  },
-  {
-    "objectID": "research/regenerative.html#related-publications",
-    "href": "research/regenerative.html#related-publications",
-    "title": "Regenerative landscape design",
-    "section": "Related publications",
-    "text": "Related publications\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. Designing regenerative landscapes: Using spatial indicators to diagnose landscape reorganization under alternative policies and management. Environmental and Sustainability Indicators. Under review\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2026). Modeling multifunctional landscape change in southern Kenya: Spatial trade-offs and drivers in an arid and semi-arid landscape. Ecological Informatics, 98, 103959. DOI"
-  },
-  {
-    "objectID": "research/regenerative.html#code",
-    "href": "research/regenerative.html#code",
-    "title": "Regenerative landscape design",
-    "section": "Code",
-    "text": "Code\n\nASAL-Regenerative-Landscape-Indicators: R scripts evaluating landscape heterogeneity, forest fragmentation and functional adjacency\n\n← Back to Research"
-  },
-  {
-    "objectID": "research/perceptions.html",
-    "href": "research/perceptions.html",
-    "title": "Land users’ perceptions of environmental change",
-    "section": "",
-    "text": "Theme 2 · Modeling integrated landscapes\nFarmers and pastoralists experience climate change through their fields, herds, and livelihoods. Their perceptions embody local and Indigenous knowledge and shape how they respond, which makes them essential for designing locally relevant adaptation.\nWorking with colleagues at Maasai Mara University, I studied how agropastoral land users in southern Kenya perceive changes in rainfall and in crop and pasture productivity, and how these perceptions compare with observed data."
-  },
-  {
-    "objectID": "research/perceptions.html#key-insights",
-    "href": "research/perceptions.html#key-insights",
-    "title": "Land users’ perceptions of environmental change",
-    "section": "Key insights",
-    "text": "Key insights\n\nPerceptions varied widely among land users, signaling that climate impacts are felt differently across households and livelihoods.\nPerceptions did not always match observed climate and environmental data, yet they reflected real impacts on local livelihoods.\nIncorporating human dimensions is critical for landscape-scale modeling and management."
-  },
-  {
-    "objectID": "research/perceptions.html#methods-tools",
-    "href": "research/perceptions.html#methods-tools",
-    "title": "Land users’ perceptions of environmental change",
-    "section": "Methods & tools",
-    "text": "Methods & tools\nHousehold surveys · remotely sensed rainfall and vegetation productivity · ordination analysis · mixed methods · R"
-  },
-  {
-    "objectID": "research/perceptions.html#related-publications",
-    "href": "research/perceptions.html#related-publications",
-    "title": "Land users’ perceptions of environmental change",
-    "section": "Related publications",
-    "text": "Related publications\n\nKotikot, S.M., Smithwick, E.A.H., Nankaya, J., Gergel, S., Zimmerer, K., & Abila, R. (2025). Heterogeneous perceptions of rainfall patterns among agropastoral land users in Sub-Saharan Africa. Annals of the American Association of Geographers, 1–23. DOI"
-  },
-  {
-    "objectID": "research/perceptions.html#code",
-    "href": "research/perceptions.html#code",
-    "title": "Land users’ perceptions of environmental change",
-    "section": "Code",
-    "text": "Code\n\nPerceptions-of-Environmental-Change: Replication code linking survey data with multi-temporal remote sensing\n\n← Back to Research"
-  },
-  {
-    "objectID": "research/decision-support.html",
-    "href": "research/decision-support.html",
-    "title": "Geospatial decision analysis",
-    "section": "",
-    "text": "Theme 3 · Transdisciplinary research for management\nAt Oak Ridge National Laboratory, I developed geospatial frameworks to support planning for critical infrastructure and climate adaptation.\nProjects included a multicriteria decision analysis for the strategic placement of reserve generators in Puerto Rico, planning green infrastructure placement using projected precipitation, estimating household electricity demand for urban infrastructure planning in select African countries, and exploring nighttime satellite imagery (VIIRS Day/Night Band) for monitoring power recovery."
-  },
-  {
-    "objectID": "research/decision-support.html#key-insights",
-    "href": "research/decision-support.html#key-insights",
-    "title": "Geospatial decision analysis",
-    "section": "Key insights",
-    "text": "Key insights\n\nPhysical landscape attributes, socioeconomic conditions, and environmental factors jointly shape vulnerability, so siting decisions benefit from integrating all three.\nIncorporating climate projections helps target infrastructure where future needs will be greatest."
-  },
-  {
-    "objectID": "research/decision-support.html#methods-tools",
-    "href": "research/decision-support.html#methods-tools",
-    "title": "Geospatial decision analysis",
-    "section": "Methods & tools",
-    "text": "Methods & tools\nGIS-based multicriteria decision analysis · climate projections · VIIRS nighttime lights · R · Python · ArcGIS"
-  },
-  {
-    "objectID": "research/decision-support.html#related-publications",
-    "href": "research/decision-support.html#related-publications",
-    "title": "Geospatial decision analysis",
-    "section": "Related publications",
-    "text": "Related publications\n\nKotikot, S.M., Kar, B., & Omitaomu, O.A. (2020). A geospatial framework using multicriteria decision analysis for strategic placement of reserve generators in Puerto Rico. IEEE Transactions on Engineering Management, 67(3), 659–669. DOI\nOmitaomu, O.A., Kotikot, S.M., & Parish, E.S. (2021). Planning green infrastructure placement based on projected precipitation data. Journal of Environmental Management, 279, 111718. DOI\nKotikot, S.M., Ajinjeru, C., Odukomaiya, A., & Omitaomu, O.A. (2018). Geospatial framework for estimating household electricity demand for urban infrastructure planning in select African countries. 2018 IEEE PES/IAS PowerAfrica, 613–618. DOI\n\n← Back to Research"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "For the most up-to-date list and citation metrics, see my Google Scholar profile.\nUnder review\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. Designing regenerative landscapes: Using spatial indicators to diagnose landscape reorganization under alternative policies and management. Environmental and Sustainability Indicators. Under review\n\n2026\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2026). Modeling multifunctional landscape change in southern Kenya: Spatial trade-offs and drivers in an arid and semi-arid landscape. Ecological Informatics, 98, 103959. DOI\n\n2025\n\nKotikot, S.M., Smithwick, E.A.H., Gergel, S., Nankaya, J., & Abila, R. (2025). Historical land policies influence contemporary landscape patterns in agropastoral landscapes. Landscape Ecology, 40, 163. DOI\n\n\nKotikot, S.M., Smithwick, E.A.H., Nankaya, J., Gergel, S., Zimmerer, K., & Abila, R. (2025). Heterogeneous perceptions of rainfall patterns among agropastoral land users in Sub-Saharan Africa. Annals of the American Association of Geographers, 1–23. DOI\n\n\nViquez, Y., Das, B., Kotikot, S.M., Baloukas, E., Canty, S.W.J., Cissell, J.R., Romero-Gonzalez, T.E., Connette, G., & Collin, R. (2025). Application of open access data for documenting mangrove cover, cover change, and uncertainty in Panama. Bulletin of Marine Science, 101(3), 1475–1495. DOI\n\n2024\n\nKotikot, S.M., Spencer, O., Cissell, J.R., Connette, G., Smithwick, E.A.H., Durdall, A., Grimes, K.W., Stewart, H.A., Tzadik, O., & Canty, S.W.J. (2024). Building a mangrove ecosystem monitoring tool for managers using Sentinel-2 imagery in Google Earth Engine. Ocean & Coastal Management, 256, 107307. DOI\n\n\nKotikot, S.M., Smithwick, E.A.H., & Greatrex, H. (2024). Observations of enhanced rainfall variability in Kenya, East Africa. Scientific Reports, 14, 12915. DOI\n\n2021\n\nKotikot, S.M., Omitaomu, O.A., & Parish, E.S. (2021). Spatial–temporal patterns of historical, near-term, and projected drought in the conterminous United States. Hydrology, 8(3), 136. DOI\n\n\nOmitaomu, O.A., Kotikot, S.M., & Parish, E.S. (2021). Planning green infrastructure placement based on projected precipitation data. Journal of Environmental Management, 279, 111718. DOI\n\n2020\n\nKotikot, S.M., Flores, A., Griffin, R.E., Nyaga, J., Case, J.L., Mugo, R., Sedah, A., Adams, E., Limaye, A., & Irwin, D.E. (2020). Statistical characterization of frost zones: Case of tea freeze damage in the Kenyan highlands. International Journal of Applied Earth Observation and Geoinformation, 84, 101971. DOI\n\n\nKotikot, S.M., Kar, B., & Omitaomu, O.A. (2020). A geospatial framework using multicriteria decision analysis for strategic placement of reserve generators in Puerto Rico. IEEE Transactions on Engineering Management, 67(3), 659–669. DOI\n\n2018\n\nKotikot, S.M., Flores, A., Griffin, R.E., Sedah, A., Nyaga, J., Mugo, R., Limaye, A., & Irwin, D.E. (2018). Mapping threats to agriculture in East Africa: Performance of MODIS-derived LST for frost identification in Kenya’s tea plantations. International Journal of Applied Earth Observation and Geoinformation, 72, 131–139. DOI\n\n\nKotikot, S.M., Ajinjeru, C., Odukomaiya, A., & Omitaomu, O.A. (2018). Geospatial framework for estimating household electricity demand for urban infrastructure planning in select African countries. 2018 IEEE PES/IAS PowerAfrica, 613–618. DOI\n\n2017\n\nAl-Hamdan, M.Z., Oduor, P., Flores, A.I., Kotikot, S.M., Mugo, R., Ababu, J., & Farah, H. (2017). Evaluating land cover changes in Eastern and Southern Africa from 2000 to 2010 using validated Landsat and MODIS data. International Journal of Applied Earth Observation and Geoinformation, 62, 8–26. DOI\n\n2015\n\nKotikot, S.M., & Onywere, S.M. (2015). Application of GIS and remote sensing techniques in frost risk mapping for mitigating agricultural losses in the Aberdare ecosystem, Kenya. Geocarto International, 30(1), 104–121. DOI"
   }
 ]

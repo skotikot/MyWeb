@@ -63,4 +63,6 @@ R scripts and spatial workflows for evaluating landscape heterogeneity, forest f
 
 ## Tools I work with
 
+::: {.tools}
 <span class="pill">R</span><span class="pill">Python</span><span class="pill">Google Earth Engine</span><span class="pill">ArcGIS Pro</span><span class="pill">QGIS</span><span class="pill">ENVI</span><span class="pill">TerrSet / Land Change Modeler</span><span class="pill">FRAGSTATS</span><span class="pill">Circuitscape</span><span class="pill">GitHub</span>
+:::

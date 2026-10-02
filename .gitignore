@@ -2,3 +2,4 @@
 *_files/libs/
 
 **/*.quarto_ipynb
+.Rproj.user
