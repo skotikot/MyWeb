@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs          # GitHub Pages: Settings > Pages > Deploy from branch > /docs
+  render:
+    - "*.qmd"
+    - "research/*.qmd"
+    - "!MyWebsite/"
   resources:
     - images/
 
@@ -47,8 +51,20 @@ website:
         href: https://scholar.google.com/citations?user=GiHpEEsAAAAJ&hl=en
         aria-label: Google Scholar
   page-footer:
-    left: "© 2026 Susan Malaso Kotikot"
-    right: "Built with [Quarto](https://quarto.org) · Hosted on GitHub Pages"
+    center:
+      - text: "© 2026 Susan Malaso Kotikot"
+      - icon: envelope-fill
+        href: mailto:susan.kotikot@uconn.edu
+        aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/susankotikot
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/skotikot
+        aria-label: GitHub
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=GiHpEEsAAAAJ&hl=en
+        aria-label: Google Scholar
 
 format:
   html:

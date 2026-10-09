@@ -196,3 +196,13 @@ h2 { font-size: 2.1rem; margin-top: 2.4rem; }
 @media (max-width: 991px) { .navbar-title { font-size: .95rem !important; max-width: 380px; } }
 @media (max-width: 480px) { .navbar-title { font-size: .76rem !important; max-width: 215px; } }
 @media (max-width: 480px) { .navbar-brand-container { flex: 1 1 auto; margin-left: .4rem !important; margin-right: .4rem !important; } .navbar-title { max-width: none; } }
+
+/* Centered footer: copyright on top, icons below */
+.nav-footer { justify-content: center; }
+.nav-footer .nav-footer-left, .nav-footer .nav-footer-right { display: none; }
+.nav-footer .nav-footer-center { flex: 1 1 100%; text-align: center; }
+.nav-footer .nav-footer-center .footer-items { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: .2rem .6rem; }
+.nav-footer .nav-footer-center .footer-items .nav-item:first-child { flex-basis: 100%; text-align: center; color: #cfe3d6; font-size: .95rem; margin-bottom: .2rem; }
+.nav-footer .nav-footer-center .nav-link { color: #ffffff !important; font-size: 1.3rem; padding: .2rem .5rem; }
+.nav-footer .nav-footer-center .nav-item:first-child .nav-link { font-size: .95rem; color: #cfe3d6 !important; }
+.nav-footer .nav-footer-center .nav-link:hover { color: #3fae5a !important; }
