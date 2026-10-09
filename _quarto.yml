@@ -5,14 +5,14 @@ project:
     - images/
 
 website:
-  title: "Kotikot"
+  title: "Susan M. Kotikot"
   description: "Land use, landscape resilience and geospatial science"
   favicon: images/favicon.svg
   page-navigation: false
   navbar:
     logo: images/logo.svg
     logo-alt: "Susan M. Kotikot logo"
-    title: "Kotikot"
+    title: "Understanding Landscape Change for Planning, and Resilience"
     background: "#0b1f1c"
     foreground: "#ffffff"
     left:

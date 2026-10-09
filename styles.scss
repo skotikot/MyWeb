@@ -189,3 +189,10 @@ h2 { font-size: 2.1rem; margin-top: 2.4rem; }
 @media (max-width: 480px) { .navbar-brand { gap: .45rem; } .navbar-title { font-size: 1.4rem; } .navbar-brand img, .navbar-logo { height: 36px; max-height: 36px !important; } }
 .navbar-brand.navbar-brand-logo { flex-shrink: 0; min-width: max-content; }
 .navbar-brand-container { display: flex; align-items: center; }
+
+/* Brand text: tagline only (no name) */
+.navbar-title { font-size: 1.12rem !important; font-weight: 700; line-height: 1.3; letter-spacing: 0; white-space: normal; max-width: 420px; display: block; }
+.navbar-title::after { content: none !important; display: none !important; }
+@media (max-width: 991px) { .navbar-title { font-size: .95rem !important; max-width: 380px; } }
+@media (max-width: 480px) { .navbar-title { font-size: .76rem !important; max-width: 215px; } }
+@media (max-width: 480px) { .navbar-brand-container { flex: 1 1 auto; margin-left: .4rem !important; margin-right: .4rem !important; } .navbar-title { max-width: none; } }
